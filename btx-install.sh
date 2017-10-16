@@ -12,6 +12,6 @@ echo "Колдуем..."
 sleep 2
 cp btx /usr/local/bin
 chmod +x btx
-echo "Готово! Введите в терминале "btx" "
+echo "Готово! Введите в терминале btx "
 
 

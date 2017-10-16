@@ -1,6 +1,5 @@
 # coding: utf-8
 import urllib.request
-import re
 from bs4 import BeautifulSoup
 url = "http://bitkurs.ru/"
 r = urllib.request.urlopen(url).read().decode('utf-8','ignore')

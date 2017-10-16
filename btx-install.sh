@@ -1,4 +1,7 @@
 #!/bin/bash
+echo "Устанавливаем модуль..."
+pip3 install bs4
+sleep 2
 echo "Создаем директорию..."
 sleep 2
 mkdir /usr/local/bin/btcc

@@ -4,7 +4,6 @@
 
 1. git clone https://github.com/vavanchik2017/btc-c.git
 2. cd btc-c
-3. sudo chmod+x btx-install.sh
-4. sudo ./btx-install.sh
-5. ???????
-6. PROFIT
+5. sudo ./btx-install.sh
+4. ???????
+5. PROFIT
